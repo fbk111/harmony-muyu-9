@@ -1,0 +1,41 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "/Users/fcsummer/.ohos/config/auto_debug_Harmony_Wooden_FIsh_9_com.fcsummer.muyucommon_350086000114737479.cer",
+          "storePassword": "0000001BD5E3FFB85DC9AFEDFCBE2E1925CBE07853A758A01AB7154C93D62D049F928C36ECFA80093F072B",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001BC86A30E664480937F205F98F47B036EA86964A97F30508934FDA6C0C6B209B59B8B9B257081386",
+          "profile": "/Users/fcsummer/.ohos/config/auto_debug_Harmony_Wooden_FIsh_9_com.fcsummer.muyucommon_350086000114737479.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "/Users/fcsummer/.ohos/config/auto_debug_Harmony_Wooden_FIsh_9_com.fcsummer.muyucommon_350086000114737479.p12"
+        }
+      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
