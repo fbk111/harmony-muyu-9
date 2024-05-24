@@ -1,8 +1,5 @@
 # harmony-敲木鱼
 [访问地址](https://muyu.fbk111.top/)
-<div style="width: 100%; height: 500px; overflow: hidden;">
-  <iframe src="https://muyu.fbk111.top/" style="border: none; width: 100%; height: 100%;"></iframe>
-</div>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="./img/1.jpg" alt="1" style="width: 30%;" />
   <img src="./img/2.jpg" alt="2" style="width: 30%;" />
