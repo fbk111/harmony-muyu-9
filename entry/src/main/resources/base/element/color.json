@@ -1,0 +1,96 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    },
+    {
+      "name": "item_title_font",
+      "value": "#E6000000"
+    },
+    {
+      "name": "nav_background_color",
+      "value": "#f7f7f7"
+    },
+    {
+      "name": "page_background_color",
+      "value": "#f3f2f6"
+    },
+    {
+      "name": "nav_title_button_color",
+      "value": "#72a4de"
+    },
+    {
+      "name": "sub_title_color",
+      "value": "#8e8d91"
+    },
+    {
+      "name": "radio_button_color",
+      "value": "#35c85a"
+    },
+    {
+      "name": "border_icon_color",
+      "value": "#2476fe"
+    },
+    {
+      "name": "icon_index1_color",
+      "value": "#000000"
+    },
+    {
+      "name": "icon_muyutou_black",
+      "value": "#000000"
+    },
+    {
+      "name": "icon_muyutou_green",
+      "value": "#032103"
+    },
+    {
+      "name": "icon_muyutou_yellow",
+      "value": "#d59113"
+    },
+    {
+      "name": "icon_muyutou_blue",
+      "value": "#030944"
+    },
+    {
+      "name": "icon_kunkun_blue",
+      "value": "#67adeb"
+    },
+    {
+      "name": "icon_kunkun_yellow",
+      "value": "#fdec71"
+    },
+    {
+      "name": "icon_lighting_grown",
+      "value": "#210f00"
+    },
+    {
+      "name": "icon_bell_yellow",
+      "value": "#fef9ed"
+    },
+    {
+      "name": "icon_oh_green",
+      "value": "#30eb21"
+    },
+    {
+      "name": "icon_gun_white",
+      "value": "#e9e9e9"
+    },
+    {
+      "name": "icon_fangpi_white",
+      "value": "#f0f0f0"
+    },
+    {
+      "name": "icon_boom_white",
+      "value": "#92060b"
+    },
+    {
+      "name": "icon_func_introduce_back_yueqi_color",
+      "value": "#AD6FFAFF"
+    },
+    {
+      "name": "icon_func_introduce_back_setting_color",
+      "value": "#8d8d8f"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "layered-image":
+  {
+    "background" : "$media:muyutou_white_288",
+    "foreground" : "$media:start_window_black_288"
+  }
+}
